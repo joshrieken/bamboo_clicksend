@@ -17,7 +17,7 @@ end
 
 1. Setup your configuration
 
-```
+```elixir
 config :my_app, MyApp.Mailer,
   adapter: Bamboo.ClicksendAdapter,
   api_key: "F0E14CF8-1691-11E9-9019-C48E8FF5E241",
@@ -30,4 +30,3 @@ config :my_app, MyApp.Mailer,
 Documentation can be generated with [ExDoc](https://github.com/elixir-lang/ex_doc)
 and published on [HexDocs](https://hexdocs.pm). Once published, the docs can
 be found at [https://hexdocs.pm/bamboo_clicksend](https://hexdocs.pm/bamboo_clicksend).
-
