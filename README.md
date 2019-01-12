@@ -10,7 +10,7 @@ A [ClickSend](https://github.com/thoughtbot/bamboo) adapter for the
 ```elixir
 def deps do
   [
-    {:bamboo_clicksend, "~> 0.1.0"}
+    {:bamboo_clicksend, "~> 0.2.0"}
   ]
 end
 ```
